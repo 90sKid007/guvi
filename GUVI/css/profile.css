@@ -1,0 +1,8 @@
+.btn-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-container button {
+    width: 48%; /* Adjust the width as needed */
+}
